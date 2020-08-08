@@ -1,0 +1,4 @@
+Binomial : what is the prob that n out of m customers buy the product
+ N number of identical trials
+ Events are independent
+ Outcome - success/failure

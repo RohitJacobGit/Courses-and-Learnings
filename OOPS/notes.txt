@@ -1,0 +1,6 @@
+open terminal on the project
+cd /Users/rohitanand/'OneDrive - Jacobs University'/OOPS/Inheritence
+type ipython
+run filename.py
+
+https://www.udemy.com/course/object-oriented-python-programming/learn/lecture/18242146#overview
