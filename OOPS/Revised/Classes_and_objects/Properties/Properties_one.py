@@ -3,11 +3,11 @@ class Person:
 
     def __init__(self, name, age):
         self.name = name
-        self.age = age
+        self._age = age
         # set_age constraint checked here as well since age is now being treated as an instance variable
 
     def display(self):
-        print('Name and age: ', self.name, self.age)
+        print('Name and age: ', self.name, self._age)
 
     @property
     def age(self):
